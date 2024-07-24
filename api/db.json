@@ -1,0 +1,28 @@
+{
+    "courses":[
+        {   
+            "id" :1,
+            "content":"Angular Kursu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis lorem, varius quis rutrum eu, volutpat ut est. Integer vitae urna mauris. Aliquam mollis, dui eu eleifend tempor, libero arcu porttitor lorem, ut commodo ipsum nisl at erat. Nulla mattis dictum erat, ut tincidunt felis elementum vitae. Vivamus tempor suscipit est nec mollis. Curabitur finibus sit amet neque quis pharetra. Donec in mauris ut erat fermentum aliquet id vitae lectus. Praesent tincidunt sapien sit amet lobortis ultrices. Nam orci ex, scelerisque sed libero et, interdum congue purus.",
+            "title":"Angular",
+            "price":69
+        },
+        {
+            "id" :2,
+            "content":"Bootstrap Kursu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis lorem, varius quis rutrum eu, volutpat ut est. Integer vitae urna mauris. Aliquam mollis, dui eu eleifend tempor, libero arcu porttitor lorem, ut commodo ipsum nisl at erat. Nulla mattis dictum erat, ut tincidunt felis elementum vitae. Vivamus tempor suscipit est nec mollis. Curabitur finibus sit amet neque quis pharetra. Donec in mauris ut erat fermentum aliquet id vitae lectus. Praesent tincidunt sapien sit amet lobortis ultrices. Nam orci ex, scelerisque sed libero et, interdum congue purus.",
+            "title":"Bootstrap",
+            "price":69
+        },
+        {
+            "id" :3,
+            "content":"C Kursu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis lorem, varius quis rutrum eu, volutpat ut est. Integer vitae urna mauris. Aliquam mollis, dui eu eleifend tempor, libero arcu porttitor lorem, ut commodo ipsum nisl at erat. Nulla mattis dictum erat, ut tincidunt felis elementum vitae. Vivamus tempor suscipit est nec mollis. Curabitur finibus sit amet neque quis pharetra. Donec in mauris ut erat fermentum aliquet id vitae lectus. Praesent tincidunt sapien sit amet lobortis ultrices. Nam orci ex, scelerisque sed libero et, interdum congue purus.",
+            "title":"C Programlama",
+            "price":69
+        },
+        {
+            "id" :4,
+            "content":"HTML Kursu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis lorem, varius quis rutrum eu, volutpat ut est. Integer vitae urna mauris.",
+            "title":"HTML Kursu",
+            "price":0
+        }
+    ]
+}
